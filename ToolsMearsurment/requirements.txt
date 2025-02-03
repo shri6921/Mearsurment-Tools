@@ -1,5 +1,4 @@
 streamlit
-opencv-python
-torch
 numpy
-pandas
+torch
+opencv-python-headless
